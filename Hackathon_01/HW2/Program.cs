@@ -15,7 +15,7 @@ namespace HW2
             int paper = 0;
             int change = 4;
             int total = 11;
-            int test = 100;
+            
             while (candy < total)
             {
                 buy++;
