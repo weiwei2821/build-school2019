@@ -1,0 +1,14 @@
+C:\BuildSchool--HomeWork\Build School-HW\Hackathon_01\HW2\bin\Debug\HW2.exe.config
+C:\BuildSchool--HomeWork\Build School-HW\Hackathon_01\HW2\bin\Debug\HW2.exe
+C:\BuildSchool--HomeWork\Build School-HW\Hackathon_01\HW2\bin\Debug\HW2.pdb
+C:\BuildSchool--HomeWork\Build School-HW\Hackathon_01\HW2\obj\Debug\HW2.csprojAssemblyReference.cache
+C:\BuildSchool--HomeWork\Build School-HW\Hackathon_01\HW2\obj\Debug\HW2.csproj.CoreCompileInputs.cache
+C:\BuildSchool--HomeWork\Build School-HW\Hackathon_01\HW2\obj\Debug\HW2.exe
+C:\BuildSchool--HomeWork\Build School-HW\Hackathon_01\HW2\obj\Debug\HW2.pdb
+C:\BuildSchool_\Build School-HW\Hackathon_01\HW2\bin\Debug\HW2.exe.config
+C:\BuildSchool_\Build School-HW\Hackathon_01\HW2\bin\Debug\HW2.exe
+C:\BuildSchool_\Build School-HW\Hackathon_01\HW2\bin\Debug\HW2.pdb
+C:\BuildSchool_\Build School-HW\Hackathon_01\HW2\obj\Debug\HW2.csprojAssemblyReference.cache
+C:\BuildSchool_\Build School-HW\Hackathon_01\HW2\obj\Debug\HW2.csproj.CoreCompileInputs.cache
+C:\BuildSchool_\Build School-HW\Hackathon_01\HW2\obj\Debug\HW2.exe
+C:\BuildSchool_\Build School-HW\Hackathon_01\HW2\obj\Debug\HW2.pdb

@@ -1,0 +1,7 @@
+C:\BuildSchool--HomeWork\Build School-HW\Hackathon_01\HW1\bin\Debug\HW1.exe.config
+C:\BuildSchool--HomeWork\Build School-HW\Hackathon_01\HW1\bin\Debug\HW1.exe
+C:\BuildSchool--HomeWork\Build School-HW\Hackathon_01\HW1\bin\Debug\HW1.pdb
+C:\BuildSchool--HomeWork\Build School-HW\Hackathon_01\HW1\obj\Debug\HW1.csprojAssemblyReference.cache
+C:\BuildSchool--HomeWork\Build School-HW\Hackathon_01\HW1\obj\Debug\HW1.csproj.CoreCompileInputs.cache
+C:\BuildSchool--HomeWork\Build School-HW\Hackathon_01\HW1\obj\Debug\HW1.exe
+C:\BuildSchool--HomeWork\Build School-HW\Hackathon_01\HW1\obj\Debug\HW1.pdb
